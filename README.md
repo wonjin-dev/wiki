@@ -13,4 +13,9 @@
       프로세스와 스레드
     </a>
   </li>
+  <li>
+    <a href="./CS/DHCP.md">
+      DHCP
+    </a>
+  </li>
 </ul>
