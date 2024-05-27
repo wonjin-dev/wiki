@@ -18,4 +18,9 @@
       DHCP
     </a>
   </li>
+  <li>
+    <a href="./CS/NAT vs NAPT vs Port Forwarding.md">
+      NAT vs NAPT vs Port Forwarding
+    </a>
+  </li>
 </ul>
