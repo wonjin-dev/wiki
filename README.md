@@ -1,101 +1,104 @@
 # ✨ Record my learning
 
-- <a href="https://github.com/Soomgo-public/docker-study">Docker 공식문서 & `도커 교과서` 스터디</a>
+<details open>
+  <summary>
+    <h2>A11Y</h2>
+  </summary>
+  
+  <ul>
+    <li>
+      <a href="https://github.com/wonjin-dev/web-accessibility/blob/master/Tutorial.md">
+        Tutorial
+      </a>
+    </li>
+    <li>
+      <a href="https://github.com/wonjin-dev/web-accessibility/blob/master/Page Structure.md">
+        Page Structure
+      </a>
+    </li>
+    <li>
+      <a href="https://github.com/wonjin-dev/web-accessibility/blob/master/Button.md">
+        Button
+      </a>
+    </li>
+    <li>
+      <a href="https://github.com/wonjin-dev/web-accessibility/blob/master/ComboBox.md">
+        ComboBox
+      </a>
+    </li>
+    <li>
+      <a href="https://github.com/wonjin-dev/web-accessibility/blob/master/Carousel.md">
+        Carousel
+      </a>
+    </li>
+    <li>
+      <a href="https://github.com/wonjin-dev/web-accessibility/blob/main/Checkbox">
+        Checkbox
+      </a>
+    </li>
+    <li>
+      <a href="https://github.com/wonjin-dev/web-accessibility/blob/main/Images">
+        Images
+      </a>
+    </li>
+    <li>
+      <a href="https://github.com/wonjin-dev/web-accessibility/blob/main/Menu Button.md">
+        Menu Button
+      </a>
+    </li>
+    <li>
+      <a href="https://github.com/wonjin-dev/web-accessibility/blob/main/Menu.md">
+        Menu
+      </a>
+    </li>
+    <li>
+      <a href="https://github.com/wonjin-dev/web-accessibility/blob/main/Alert.md">
+        Alert
+      </a>
+    </li>
+    <li>
+      <a href="https://github.com/wonjin-dev/web-accessibility/blob/main/Meter">
+        Meter
+      </a>
+    </li>
+    <li>
+      <a href="https://github.com/wonjin-dev/web-accessibility/blob/main/Accordion">
+        Accordion
+      </a>
+    </li>
+    <li>
+      <a href="https://github.com/wonjin-dev/web-accessibility/blob/main/Dialog.md">
+        Dialog
+      </a>
+    </li>
+    <li>
+      <a href="https://github.com/wonjin-dev/web-accessibility/blob/main/Feed">
+        Feed
+      </a>
+    </li>
+    <li>
+      <a href="https://github.com/wonjin-dev/web-accessibility/blob/main/Form.md">
+        Form
+      </a>
+    </li>
+    <li>
+      <a href="https://github.com/wonjin-dev/web-accessibility/blob/main/ListBox.md">
+        ListBox
+      </a>
+    </li>
+    <li>
+      <a href="https://github.com/wonjin-dev/web-accessibility/blob/main/Tab">
+        Tab
+      </a>
+    </li>
+    <li>
+      <a href="https://github.com/wonjin-dev/web-accessibility/blob/main/Table.md">
+        Table
+      </a>
+    </li>
+  </ul>
 
-## <a href="https://github.com/wonjin-dev/web-accessibility">A11Y</a>
-
-<ul>
-  <li>
-    <a href="https://github.com/wonjin-dev/web-accessibility/blob/master/Tutorial.md">
-      Tutorial
-    </a>
-  </li>
-  <li>
-    <a href="https://github.com/wonjin-dev/web-accessibility/blob/master/Page Structure.md">
-      Page Structure
-    </a>
-  </li>
-  <li>
-    <a href="https://github.com/wonjin-dev/web-accessibility/blob/master/Button.md">
-      Button
-    </a>
-  </li>
-  <li>
-    <a href="https://github.com/wonjin-dev/web-accessibility/blob/master/ComboBox.md">
-      ComboBox
-    </a>
-  </li>
-  <li>
-    <a href="https://github.com/wonjin-dev/web-accessibility/blob/master/Carousel.md">
-      Carousel
-    </a>
-  </li>
-  <li>
-    <a href="https://github.com/wonjin-dev/web-accessibility/blob/main/Checkbox">
-      Checkbox
-    </a>
-  </li>
-  <li>
-    <a href="https://github.com/wonjin-dev/web-accessibility/blob/main/Images">
-      Images
-    </a>
-  </li>
-  <li>
-    <a href="https://github.com/wonjin-dev/web-accessibility/blob/main/Menu Button.md">
-      Menu Button
-    </a>
-  </li>
-  <li>
-    <a href="https://github.com/wonjin-dev/web-accessibility/blob/main/Menu.md">
-      Menu
-    </a>
-  </li>
-  <li>
-    <a href="https://github.com/wonjin-dev/web-accessibility/blob/main/Alert.md">
-      Alert
-    </a>
-  </li>
-  <li>
-    <a href="https://github.com/wonjin-dev/web-accessibility/blob/main/Meter">
-      Meter
-    </a>
-  </li>
-  <li>
-    <a href="https://github.com/wonjin-dev/web-accessibility/blob/main/Accordion">
-      Accordion
-    </a>
-  </li>
-  <li>
-    <a href="https://github.com/wonjin-dev/web-accessibility/blob/main/Dialog.md">
-      Dialog
-    </a>
-  </li>
-  <li>
-    <a href="https://github.com/wonjin-dev/web-accessibility/blob/main/Feed">
-      Feed
-    </a>
-  </li>
-  <li>
-    <a href="https://github.com/wonjin-dev/web-accessibility/blob/main/Form.md">
-      Form
-    </a>
-  </li>
-  <li>
-    <a href="https://github.com/wonjin-dev/web-accessibility/blob/main/ListBox.md">
-      ListBox
-    </a>
-  </li>
-  <li>
-    <a href="https://github.com/wonjin-dev/web-accessibility/blob/main/Tab">
-      Tab
-    </a>
-  </li>
-  <li>
-    <a href="https://github.com/wonjin-dev/web-accessibility/blob/main/Table.md">
-      Table
-    </a>
-  </li>
-</ul>
+</details>
 
 ## Computer Science
 
@@ -126,3 +129,23 @@
     </a>
   </li>
 </ul>
+
+<details>
+  <summary>
+    <h2>Studies</h2>
+  </summary>
+  
+  <ul>
+    <li>
+      <a href="https://github.com/Soomgo-public/docker-study">
+        Docker 공식문서 & "도커 교과서" 스터디
+      </a>
+    </li>
+    <li>
+      <a href="https://github.com/wonjin-dev/engineer-information-processing">
+        정보 처리 기사 스터디
+      </a>
+    </li>
+  </ul>
+
+</details>
