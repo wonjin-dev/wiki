@@ -132,6 +132,20 @@
 
 <details open>
   <summary>
+    <h2>Design Patterns</h2>
+  </summary>
+  
+  <ul>
+    <li>
+      <a href="https://github.com/wonjin-dev/wiki/tree/main/Design%20Patterns/Abstract%20Factory">
+        Abstract Factory
+      </a>
+    </li>
+  </ul>
+</details>
+
+<details open>
+  <summary>
     <h2>Algorithm</h2>
   </summary>
 
