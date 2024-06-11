@@ -135,13 +135,18 @@
     <h2>Design Patterns</h2>
   </summary>
   
-  <ul>
+  <ol>
+    <li>
+      <a href="https://github.com/wonjin-dev/wiki/tree/main/Design%20Patterns/Factory%20Method">
+        Factory Method
+      </a>
+    </li>
     <li>
       <a href="https://github.com/wonjin-dev/wiki/tree/main/Design%20Patterns/Abstract%20Factory">
         Abstract Factory
       </a>
     </li>
-  </ul>
+  </ol>
 </details>
 
 <details open>
