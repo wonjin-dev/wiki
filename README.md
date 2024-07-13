@@ -30,7 +30,7 @@
   </li>
 </ul>
 
-<details open>
+<details>
   <summary>
     <h2>Algorithm</h2>
   </summary>
@@ -176,11 +176,10 @@ O(2^n) : 피보나치 수열
 </ul>
 </details>
 
-<details open>
+<details>
   <summary>
     <h2>A11Y</h2>
   </summary>
-
   <ul>
     <li>
       <a href="https://github.com/wonjin-dev/web-accessibility/blob/master/Tutorial.md">
@@ -270,6 +269,19 @@ O(2^n) : 피보나치 수열
     <li>
       <a href="https://github.com/wonjin-dev/web-accessibility/blob/main/Table.md">
         Table
+      </a>
+    </li>
+  </ul>
+</details>
+
+<details>
+  <summary>
+    <h2>Studies</h2>
+  </summary>
+  <ul>
+    <li>
+      <a href="https://github.com/Soomgo-Public/docker-study">
+        Docker 공식문서 & "도커 교과서" 스터디
       </a>
     </li>
   </ul>
