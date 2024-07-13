@@ -33,6 +33,11 @@
       UML
     </a>
   </li>
+  <li>
+    <a href="./CS/소프트웨어 생명 주기.md">
+      소프트웨어 생명 주기
+    </a>
+  </li>
 </ul>
 
 <details>
