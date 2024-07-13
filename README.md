@@ -53,6 +53,11 @@
       IP 주소
     </a>
   </li>
+  <li>
+    <a href="./CS/SOLID.md">
+      SOLID
+    </a>
+  </li>
 </ul>
 
 <details open>
@@ -201,7 +206,7 @@ O(2^n) : 피보나치 수열
 </ul>
 </details>
 
-<details>
+<details open>
   <summary>
     <h2>A11Y</h2>
   </summary>
