@@ -28,6 +28,11 @@
       표준 스트림
     </a>
   </li>
+  <li>
+    <a href="./CS/UML.md">
+      UML
+    </a>
+  </li>
 </ul>
 
 <details>
@@ -273,6 +278,24 @@ O(2^n) : 피보나치 수열
     </li>
   </ul>
 </details>
+
+<!-- <details open>
+  <summary>
+    <h2>Design Patterns</h2>
+  </summary>
+  <ol>
+    <li>
+      <a href="https://github.com/wonjin-dev/design-patterns/tree/main/Factory%20Method">
+        Factory Method
+      </a>
+    </li>
+    <li>
+      <a href="https://github.com/wonjin-dev/design-patterns/tree/main/Abstract%20Factory">
+        Abstract Factory
+      </a>
+    </li>
+  </ol>
+</details> -->
 
 <details>
   <summary>
