@@ -38,9 +38,14 @@
       소프트웨어 생명 주기
     </a>
   </li>
+  <li>
+    <a href="./CS/OSI 참조 모델.md">
+      OSI 참조 모델
+    </a>
+  </li>
 </ul>
 
-<details>
+<details open>
   <summary>
     <h2>Algorithm</h2>
   </summary>
