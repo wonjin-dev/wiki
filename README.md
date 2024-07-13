@@ -58,6 +58,11 @@
       SOLID
     </a>
   </li>
+  <li>
+    <a href="./CS/화이트 박스 테스트 vs 블랙 박스 테스트.md">
+      화이트 박스 테스트 vs 블랙 박스 테스트
+    </a>
+  </li>
 </ul>
 
 <details open>
