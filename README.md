@@ -70,6 +70,20 @@
   </li>
 </ul>
 
+<details>
+  <summary>
+    <h2>Design Patterns</h2>
+  </summary>
+  
+  <ul>
+    <li>
+      <a href="./Design Patterns/Factory Method">
+        Factory Method
+      </a>
+    </li>
+  </ul>
+<details>
+
 <details open>
   <summary>
     <h2>Algorithm</h2>
