@@ -1,11 +1,14 @@
 # Design Patterns in TypeScript
 
-<ol>
+<ul>
   <li>
-    <h2>
-      <a href="./Factory Method">
+    <a href="./Factory Method">
         Factory Method
-      </a>
-    </h2>
+    </a>
   </li>
-</ol>
+  <li>
+    <a href="./Abstract Factory">
+        Abstract Factory
+    </a>
+  </li>
+</ul>

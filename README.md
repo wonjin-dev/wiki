@@ -1,6 +1,4 @@
-# ✨ Record my learning
-
-## Computer Science
+# Computer Science
 
 <ul>
   <li>
@@ -70,23 +68,28 @@
   </li>
 </ul>
 
-<details>
+<details open>
   <summary>
-    <h2>Design Patterns</h2>
+    <h1>Design Patterns</h1>
   </summary>
-  
+
   <ul>
     <li>
       <a href="./Design Patterns/Factory Method">
         Factory Method
       </a>
     </li>
+    <li>
+      <a href="./Design Patterns/Abstract Factory">
+        Abstract Factory
+      </a>
+    </li>
   </ul>
-<details>
+</details>
 
 <details open>
   <summary>
-    <h2>Algorithm</h2>
+    <h1>Algorithm</h1>
   </summary>
 
 ### 자료구조의 종류
