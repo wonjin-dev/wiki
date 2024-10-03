@@ -331,24 +331,6 @@ O(2^n) : 피보나치 수열
   </ul>
 </details>
 
-<!-- <details open>
-  <summary>
-    <h2>Design Patterns</h2>
-  </summary>
-  <ol>
-    <li>
-      <a href="https://github.com/wonjin-dev/design-patterns/tree/main/Factory%20Method">
-        Factory Method
-      </a>
-    </li>
-    <li>
-      <a href="https://github.com/wonjin-dev/design-patterns/tree/main/Abstract%20Factory">
-        Abstract Factory
-      </a>
-    </li>
-  </ol>
-</details> -->
-
 <details>
   <summary>
     <h2>Studies</h2>
@@ -357,6 +339,11 @@ O(2^n) : 피보나치 수열
     <li>
       <a href="https://github.com/Soomgo-Public/docker-study">
         Docker 공식문서 & "도커 교과서" 스터디
+      </a>
+    </li>
+    <li>
+      <a href="https://github.com/Soomgo-Public/JS-Data-Structures-Algorithms">
+        JavaScript Data Structures & Algorithms
       </a>
     </li>
   </ul>
